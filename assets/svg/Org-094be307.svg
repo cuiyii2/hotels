@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2-menu-PC/机构管理</title>
+    <g id="2-menu-PC/机构管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <path d="M12.9635179,4.54799734 C12.9877274,4.63515139 13,4.7251872 13,4.81564121 L13,20 L4.98888957,19.9109877 C4.44097265,19.9048997 4,19.4590001 4,18.9110494 L4,6.76008565 C4,6.31087785 4.29953637,5.91679545 4.73235614,5.79656774 L11.7323561,3.8521233 C12.2644924,3.70430767 12.8157023,4.01586109 12.9635179,4.54799734 Z M11.5,5.473 L5.5,7.139 L5.5,18.416 L11.5,18.483 L11.5,5.473 Z" id="蒙版" fill="#606266" fill-rule="nonzero"></path>
+        <rect id="矩形备份" fill="#606266" transform="translate(8.500000, 16.000000) rotate(-270.000000) translate(-8.500000, -16.000000) " x="5.5" y="15.25" width="6" height="1.5" rx="0.5"></rect>
+        <path d="M11.5,7.5 L18.4228855,10.7306799 C18.7749599,10.8949813 19,11.2483384 19,11.636863 L19,19 C19,19.5522847 18.5522847,20 18,20 L11.5,20 L11.5,7.5 Z M13,9.855 L13,18.5 L17.5,18.5 L17.5,11.955 L13,9.855 Z" id="矩形" fill="#606266" fill-rule="nonzero"></path>
+    </g>
+</svg>

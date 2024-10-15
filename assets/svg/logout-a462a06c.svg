@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2-menu-PC/退出</title>
+    <g id="2-menu-PC/退出" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <polyline id="矩形" stroke="#606266" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(10.500000, 12.000000) rotate(-180.000000) translate(-10.500000, -12.000000) " points="5 6.42424242 5 4 16 4 16 20 5 20 5 17.5757576"></polyline>
+        <rect id="矩形" fill="#606266" x="10" y="11.5" width="11" height="1.5" rx="0.75"></rect>
+        <polyline id="路径-21" stroke="#606266" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(18.828427, 12.242641) rotate(-45.000000) translate(-18.828427, -12.242641) " points="20.8284271 10.2426407 20.8284271 14.2426407 16.8284271 14.2426407"></polyline>
+    </g>
+</svg>
