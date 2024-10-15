@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18.3333333px" height="16.3342058px" viewBox="0 0 18.3333333 16.3342058" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2-menu-PC/首页</title>
+    <g id="外部客户端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4.13.4证书到期提醒" transform="translate(-10.8333, -428.8333)">
+            <g id="2.Navigation导航/2.Menu导航菜单/侧边导航列/未选备份-36" transform="translate(0, 417)">
+                <g id="2-menu-PC/首页" transform="translate(8, 8)">
+                    <rect id="矩形" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+                    <g id="证书_certificate-2" transform="translate(3.5, 4.5)" stroke="#606266" stroke-width="1.33333333">
+                        <g id="证书_certificate">
+                            <path d="M8.85991721,13 L0.85,13 C0.38055775,13 0,12.6119933 0,12.1333333 L0,0.866666667 C0,0.388019667 0.38055775,0 0.85,0 L16.15,0 C16.619455,0 17,0.388019667 17,0.866666667 L17,12.1333333 C17,12.6119933 16.619455,13 16.15,13 L12.75,13" id="路径" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <line x1="3" y1="3" x2="13" y2="3" id="路径" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="3" y1="6" x2="6" y2="6" id="路径" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="3" y1="9" x2="5" y2="9" id="路径" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <path d="M10.5,11 C11.8807083,11 13,9.88070833 13,8.5 C13,7.11929167 11.8807083,6 10.5,6 C9.11929167,6 8,7.11929167 8,8.5 C8,9.88070833 9.11929167,11 10.5,11 Z" id="路径"></path>
+                            <path d="M10.5,14.2401071 L12,15 L12,10.6580891 C11.71485,11.2730178 11.21485,11.5804822 10.5,11.5804822 C9.78515,11.5804822 9.28515,11.2765386 9,10.6686516 L9,15 L10.5,14.2401071 Z" id="路径" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

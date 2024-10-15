@@ -1,0 +1,1 @@
+import{m as o,P as u,n as c,E as l}from"./main-59e74578.js";const p=e=>o.post(u+"/user/delete",e),d=(e,s,t,r="warning")=>new Promise((a,n)=>{c.confirm(`是否${t}?`,"提示",{confirmButtonText:"确定",cancelButtonText:"取消",type:r,draggable:!0}).then(async()=>{if(!await e(s))return n(!1);l({type:"success",message:`${t}成功!`}),a(!0)})});export{p as d,d as u};
